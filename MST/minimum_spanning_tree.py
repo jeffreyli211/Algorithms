@@ -67,4 +67,4 @@ def MST(input):
     graph_file.close()
     output_file.close()
 
-MST("03_input")
+MST("input")
